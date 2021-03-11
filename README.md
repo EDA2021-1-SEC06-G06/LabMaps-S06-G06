@@ -1,5 +1,8 @@
 #ISIS1225 - Estructura de un proyecto
 
+Thais Tamaio 202022213 t.tamaio@uniandes.edu.co @ThaisTamaio 
+Juan José Osorio 202021720 j.osorioc@uniandes.edu.co @jjosorioc
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
